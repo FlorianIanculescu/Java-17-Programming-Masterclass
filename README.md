@@ -1,9 +1,12 @@
 # Java-Programming-Masterclass-Java-17
 
 [![language](https://img.shields.io/badge/language-Java%2017-blue?labelColor=gray&style=flat&link=https://www.java.com/en/)](https://www.java.com/en/)
-[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-green?labelColor=gray&style=flat&link=https://www.jetbrains.com/idea/)](https://www.jetbrains.com/idea/)
+[![library](https://img.shields.io/badge/library-JavaFX-green?labelColor=gray&style=flat&link=https://openjfx.io/)](https://openjfx.io/)
+[![tool](https://img.shields.io/badge/tool-Scene%20Builder-orange?labelColor=gray&style=flat&link=https://gluonhq.com/products/scene-builder/)](https://gluonhq.com/products/scene-builder/)
+[![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple?labelColor=gray&style=flat&link=https://www.jetbrains.com/idea/)](https://www.jetbrains.com/idea/)
+[![Style Sheet Language](https://img.shields.io/badge/Style%20Sheet%20Language-CSS-blue?labelColor=gray&style=flat&link=https://developer.mozilla.org/en-US/docs/Web/CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-This repository contains the code and resources for the Data Structures and Algorithms with Java course. The course covers various data structures and algorithms commonly used in computer science and software development and spendsa lot of time looking at what’s available in the JDK.
+This repository contains the code and resources for the Java Programming Masterclass - Java 17 course. This repository contains all the materials, projects, and resources related to the Java course I have completed.
 
 ## Table of Contents
 
@@ -15,27 +18,62 @@ This repository contains the code and resources for the Data Structures and Algo
   
 ## Introduction
 
-Data structures and algorithms are fundamental concepts in computer science. They provide efficient ways to store and manipulate data, as well as solve complex problems. Understanding these concepts is essential for writing efficient and scalable code.
+Java is a versatile, high-level programming language renowned for its platform independence, making it a valuable skill for developers. Developed by Sun Microsystems (now owned by Oracle), Java is known for its reliability, readability, and wide range of applications.
 
-This course aims to provide a comprehensive introduction to data structures and algorithms using the Java programming language. It covers various topics such as arrays, linked lists, stacks, queues, trees, sorting algorithms, searching algorithms, and more.
+Java's standout feature is "Write Once, Run Anywhere," allowing code to run on various platforms without modification. This portability is crucial in our diverse computing landscape, making it ideal for web and mobile app development, enterprise software, game development, and even embedded systems.
+
+Learning Java provides several benefits. The language boasts a large and active developer community, offering abundant resources, libraries, and frameworks for streamlined development. Its robust type system, automatic memory management, and error-checking contribute to the creation of dependable software. Furthermore, Java supports multithreading, facilitating scalability and high-performance applications.
 
 ## Course Content
 
-The course is divided into several modules, each focusing on a specific data structure or algorithm. The modules are as follows:
+The course is divided into several modules, each focusing on a specific topic. The modules are as follows:
 
-1. Arrays and Big-O Notation
-2. Sort Algorithms
-3. Lists
-4. Stacks
-5. Queues
-6. Hashtables
-7. Search Algorithms
-8. Trees
-9. Heaps
+1. First Steps
+2. Intellij Basics
+3. Expressions, Statements & More
+4. Control Flow
+5. OOP Part 1 - Inheritance
+6. OOP Part 2 - Polymorphism
+7. Arrays
+8. List, ArrayList, LinkedList, Iterator, Autoboxing
+9. Abstraction in Java
+10. Generics
+11. Nested Classes and Types
+12. Lambda Expressions, Functional Interfaces and Method References
+13. Java Collections
+14. Using Final, Immutable Classes, Constructors, Initializers, Sealed Classes
+15. Streams
+16. Back to a Few Nuts and Bolts
+17. Regular Expressions
+18. Input & Output (I/O), WOrking with Files in Java
+19. Naming Conventions and Packages. Static and Final Keywords
+20. JavaFX
+21. Concurrency in Java
+22. Debugging and Unit Testing
+23. Databases
+24. Java Networking Programming
+25. Java 9 Module System
+26. Migrating Java Projects to JAva 9
 
 ## What I learned
 
-
+- The basics of Java, its history, and its relevance in modern software development.
+- Installing and configuring the necessary software tools, such as the Java Development Kit (JDK) and Integrated Development Environment (IDE)
+- Learning about variables, data types (integers, strings, etc.), and basic operators for performing calculations and operations
+- Understanding how to use conditional statements (if, else if, switch) and loops (for, while, do-while) to control program execution
+- The principles of OOP, including classes, objects, inheritance, encapsulation, and polymorphism
+- Defining and calling methods/functions to organize code and perform specific tasks
+- Working with arrays and other data structures to store and manipulate collections of data
+- Managing errors and exceptions in Java code using try-catch blocks
+- Reading from and writing to files for data storage and retrieval
+- Using Java's collections framework, including lists, maps, and sets, to manage and manipulate data efficiently
+- Understanding the basics of concurrent programming and how to create and manage multiple threads in Java
+- Building basic graphical user interfaces using Java libraries like Swing or JavaFX
+- Connecting to databases, querying data, and performing database operations
+- Writing and running tests to ensure the reliability and correctness of Java code
+- Learning coding standards, commenting conventions, and good programming practices to write clean and maintainable code
+- Exploring strategies for identifying and fixing errors and issues in Java programs
+- Introduction to common design patterns used in Java development
 
 ## Certification
 
