@@ -45,7 +45,7 @@ The course is divided into several modules, each focusing on a specific topic. T
 15. Streams
 16. Back to a Few Nuts and Bolts
 17. Regular Expressions
-18. Input & Output (I/O), WOrking with Files in Java
+18. Input & Output (I/O), Working with Files in Java
 19. Naming Conventions and Packages. Static and Final Keywords
 20. JavaFX
 21. Concurrency in Java
