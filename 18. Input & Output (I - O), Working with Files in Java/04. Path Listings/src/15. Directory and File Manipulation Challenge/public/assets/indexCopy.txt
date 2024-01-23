@@ -1,0 +1,8 @@
+Directory Contents: 
+F:\IT\1. Cursuri Udemy\1. Java Programming Masterclass - Java 17\18. Input & Output (I - O), Working with Files in Java\Directory and File Manipulation Challenge\public\assets
+F:\IT\1. Cursuri Udemy\1. Java Programming Masterclass - Java 17\18. Input & Output (I - O), Working with Files in Java\Directory and File Manipulation Challenge\public\assets\icons
+F:\IT\1. Cursuri Udemy\1. Java Programming Masterclass - Java 17\18. Input & Output (I - O), Working with Files in Java\Directory and File Manipulation Challenge\public\assets\icons\index.txt
+F:\IT\1. Cursuri Udemy\1. Java Programming Masterclass - Java 17\18. Input & Output (I - O), Working with Files in Java\Directory and File Manipulation Challenge\public\assets\icons\indexCopy.txt
+F:\IT\1. Cursuri Udemy\1. Java Programming Masterclass - Java 17\18. Input & Output (I - O), Working with Files in Java\Directory and File Manipulation Challenge\public\assets\index.txt
+F:\IT\1. Cursuri Udemy\1. Java Programming Masterclass - Java 17\18. Input & Output (I - O), Working with Files in Java\Directory and File Manipulation Challenge\public\assets\indexCopy.txt
+Generated: 2024-01-23T11:46:50.963514700
