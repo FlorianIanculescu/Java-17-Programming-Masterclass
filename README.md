@@ -46,9 +46,9 @@ The course is divided into several modules, each focusing on a specific topic. T
 16. Back to a Few Nuts and Bolts
 17. Regular Expressions
 18. Input & Output (I/O), Working with Files in Java
-19. Naming Conventions and Packages. Static and Final Keywords
-20. JavaFX
-21. Concurrency in Java
+19. Concurrency
+20. Naming Conventions and Packages. Static and Final Keywords
+21. JavaFX
 22. Debugging and Unit Testing
 23. Databases
 24. Java Networking Programming
