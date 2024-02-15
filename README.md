@@ -52,8 +52,7 @@ The course is divided into several modules, each focusing on a specific topic. T
 22. Debugging and Unit Testing
 23. Databases
 24. Java Networking Programming
-25. Java 9 Module System
-26. Migrating Java Projects to Java 9
+25. Java 9 Module System - Migrating Java Projects to Java 9
 
 ## What I learned
 
